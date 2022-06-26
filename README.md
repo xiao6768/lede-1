@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bleach1991-visitor-badge)
-[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/openwrt2020)
-[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=USyYFX6EJ-SXYWEaKCeQSkYvSanKdVfI&jump_from=webapi)
+[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
+[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=DxyP1vPT1abLcj24dgXkRwI-eMj3WZJ7&jump_from=webapi)
 
 ![openwrt](https://user-images.githubusercontent.com/47608286/116703960-6fa77e80-a9fd-11eb-8077-f38610a4babc.png)
 
@@ -12,8 +12,10 @@
 
 **因精力有限不提供任何技术支持和教程等相关问题解答。不保证插件完全无BUG，特此公告！**
 
-### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-7048868-1-1.html
-### 恩山链接R2S-R4S ：https://www.right.com.cn/forum/thread-5870286-1-1.html
+### 恩山链接x86_64 ：https://www.right.com.cn/forum/thread-8236842-1-1.html
+### 恩山链接Xiaomi_(Redmi/mi)-AC2100 ：https://www.right.com.cn/forum/thread-7807773-1-1.html
+### 恩山链接R2S/R2C/R4S/NEO3 ：https://www.right.com.cn/forum/thread-8099741-1-1.html
+### 恩山链接Raspberry Pi 4 ：https://www.right.com.cn/forum/thread-7770086-1-1.html
 ------------------------------------------------------
 
 ## 【免责声明】
@@ -83,11 +85,15 @@
 
 **x86_64下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/x86_64/**
 
-**R2S,R4S下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/rockchip/**
+**R2S/R2C/R4S/NEO3下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/rockchip/**
+
+**Xiaomi_(Redmi/mi)-AC2100下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/mtk/**
+
+**树莓派Raspberry Pi 4下载链接：https://openwrt.mpdn.fun:8443/?dir=lede/bcm/**
 
 **谷歌云下载链接：https://drive.google.com/drive/folders/1g2ROF2M9ZsUEgGHm-Mo3Ap5m4Azr9zk9?usp=sharing**
 
-**加入固件电报群：https://t.me/openwrt2020**
+**加入固件电报群：https://t.me/+T-QQ4cpDFx83YTM1**
 
 --------------------------------------------------------------
 
@@ -146,5 +152,5 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图飞了😂" title="返回顶部" align="right"/>
 </a>
 
-[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/openwrt2020)
-[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=USyYFX6EJ-SXYWEaKCeQSkYvSanKdVfI&jump_from=webapi)
+[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/+T-QQ4cpDFx83YTM1)
+[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=DxyP1vPT1abLcj24dgXkRwI-eMj3WZJ7&jump_from=webapi)
